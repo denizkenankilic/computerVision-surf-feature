@@ -1,2 +1,2 @@
 # computerVision-surf-feature
-Surf (speed up robust feature) Feature Detection
+Speed Up Robust Feature (SURF) Feature Detection
